@@ -1,12 +1,23 @@
 {
   "name": "adopt-me",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaryanz/pure-react-no-jsx-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaryanz/pure-react-no-jsx-/issues"
+  },
+  "homepage": "https://github.com/zaryanz/pure-react-no-jsx-#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
